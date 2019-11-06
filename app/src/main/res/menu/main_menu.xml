@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/wechat"
+        android:icon="@mipmap/ic_home"/>
+
+    <item
+        android:id="@+id/contact"
+        android:title="@string/contact"
+        android:icon="@mipmap/ic_contact"/>
+
+    <item
+        android:id="@+id/find"
+        android:title="@string/find"
+        android:icon="@mipmap/ic_find"/>
+
+    <item
+        android:id="@+id/mine"
+        android:title="@string/mine"
+        android:icon="@mipmap/ic_mine"/>
+
+</menu>
